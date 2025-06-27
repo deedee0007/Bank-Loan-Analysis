@@ -63,7 +63,7 @@ Created measures and slicers to enable dynamic data exploration.
 
 ## Dataset Source 
 
-YouTube: Data Tutorials: https://youtu.be/3I8wd1AShXs?si=NVtbU09pg0LfqKkg
+Data Tutorials
 
 
 ## Dashboard Demo
